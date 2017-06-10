@@ -5,3 +5,5 @@ models
 *.swp
 *.p
 traffic-signs-data.zip
+aws
+not-data
