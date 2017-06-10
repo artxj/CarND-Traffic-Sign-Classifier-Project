@@ -7,7 +7,7 @@ The convolutional neural network is proposed to classify traffic sign images usi
 
 Writeup about the model can be found [here](./writeup.md).
 
-Source code is in [Jupyter notebook](./Traffic_Sign_Classifier.ipynb), HTML version is [here](./Traffic_Sign_Classifier.html).
+Source code is in [Jupyter notebook](./Traffic_Sign_Classifier.ipynb), HTML version is [here](./report.html).
 
 
 ### Dependencies

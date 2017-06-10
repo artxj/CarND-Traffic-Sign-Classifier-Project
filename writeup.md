@@ -51,7 +51,7 @@ Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/4
 
 ---
 
-Here is the link to the [project code](https://github.com/artxj/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb) and to the [notebook html](https://github.com/artxj/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.html).
+Here is the link to the [project code](./Traffic_Sign_Classifier.ipynb) and to the [notebook html](./report.html).
 
 ### 1. Data Set Summary & Exploration
 
